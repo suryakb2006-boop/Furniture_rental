@@ -1,12 +1,8 @@
-
-
-https://github.com/user-attachments/assets/92a110f5-76f0-479f-8fca-f0aa330f370e
-
 # RentRoom: Online Furniture Rental Platform
 
 > Built at the **SRM MDU Hackathon**.
 
-![RentRoom 3D landing page](screenshots/rentroom-3d-intro.gif)
+https://github.com/user-attachments/assets/92a110f5-76f0-479f-8fca-f0aa330f370e
 
 RentRoom lets customers browse furniture, choose rental dates, book and pay (mock payment). Administrators manage listings, rental orders and item availability.
 
