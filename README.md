@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/92a110f5-76f0-479f-8fca-f0aa330f370e
+
 # RentRoom: Online Furniture Rental Platform
 
 > Built at the **SRM MDU Hackathon**.
