@@ -2,7 +2,11 @@
 
 > Built at the **SRM MDU Hackathon**.
 
-https://github.com/user-attachments/assets/92a110f5-76f0-479f-8fca-f0aa330f370e
+
+
+https://github.com/user-attachments/assets/bfcd2453-627a-4e1c-91b0-d8df94ab33e1
+
+
 
 RentRoom lets customers browse furniture, choose rental dates, book and pay (mock payment). Administrators manage listings, rental orders and item availability.
 
