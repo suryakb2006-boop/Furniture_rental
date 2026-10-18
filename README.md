@@ -1,8 +1,26 @@
 # RentRoom: Online Furniture Rental Platform
 
+> Built at the **SRM MDU Hackathon**.
+
+![RentRoom 3D landing page](screenshots/rentroom-3d-intro.gif)
+
 RentRoom lets customers browse furniture, choose rental dates, book and pay (mock payment). Administrators manage listings, rental orders and item availability.
 
 Built with **React + Vite + Tailwind CSS + Motion** on the frontend and **Node.js + Express + SQLite** on the backend.
+
+## Screenshots
+
+| Rental Life Planner | Room Fit Check in 3D |
+|---|---|
+| ![Planner result](screenshots/05-planner-result.png) | ![Room fit check 3D](screenshots/06-room-fit-check-3d.png) |
+| **3D view on every item** | **Planner: tell us your situation** |
+| ![Item 3D view](screenshots/03-item-3d-view.png) | ![Planner start](screenshots/04-rental-life-planner.png) |
+| **My bookings with late-return charges** | **GST tax invoice** |
+| ![My bookings](screenshots/07-my-bookings-late-return.png) | ![GST invoice](screenshots/08-gst-invoice.png) |
+| **Admin dashboard** | **Admin orders** |
+| ![Admin dashboard](screenshots/09-admin-dashboard.png) | ![Admin orders](screenshots/10-admin-orders.png) |
+| **Admin availability calendar** | **3D story on scroll** |
+| ![Availability calendar](screenshots/11-admin-availability.png) | ![3D scroll story](screenshots/02-home-3d-room-fit-story.png) |
 
 ## Run it
 

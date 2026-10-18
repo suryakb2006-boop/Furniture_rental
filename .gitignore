@@ -3,3 +3,5 @@ dist
 server/rental.db
 server/uploads
 .DS_Store
+
+screenshots/*.gif
